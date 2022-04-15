@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical_Coding", "Logical_Coding.csproj", "{20E3C487-55C1-4A29-A6E6-39FDC9BA18FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical_Algo", "..\Logical_Algo\Logical_Algo.csproj", "{AE784C64-CFDD-4449-969A-3FFB8835452A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20E3C487-55C1-4A29-A6E6-39FDC9BA18FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20E3C487-55C1-4A29-A6E6-39FDC9BA18FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20E3C487-55C1-4A29-A6E6-39FDC9BA18FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE784C64-CFDD-4449-969A-3FFB8835452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE784C64-CFDD-4449-969A-3FFB8835452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE784C64-CFDD-4449-969A-3FFB8835452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE784C64-CFDD-4449-969A-3FFB8835452A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
